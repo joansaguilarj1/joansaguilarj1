@@ -1,6 +1,6 @@
 # Sebastian Aguilar
 
-**Web Full Stack Developer and Videogame Developer ** | Mid-Level | NestJS • React • Node.js •  TypeScript  • Angular | Fintech Experience | Unity Engine
+**Web Full Stack Developer and Videogame Developer | Mid-Level | NestJS • React • Node.js •  TypeScript  • Angular | Fintech Experience | Unity Engine**
 📍 Bogotá, Colombia  
 
 Full Stack Developer con más de 4 años de experiencia desarrollando aplicaciones web escalables utilizando JavaScript y TypeScript. Experiencia sólida en React, Angular, Node.js, NestJS, PostgreSQL y MongoDB, participando en proyectos de alto impacto para el sector bancario y asegurador.
@@ -46,9 +46,9 @@ App web para gestión de turnos y registro de usuarios.
 - Frontend: React + Vite  
 - Backend: Node.js + PostgreSQL  
 - Autenticación y manejo de citas  
-🔗 [Repositorio](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita) | [Demo](https://www.youtube.com/watch?v=XJMVlnWBzQQ)   -->
+🔗 [Repositorio](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita) | [Demo](https://www.youtube.com/watch?v=XJMVlnWBzQQ)  
 
----
+--- -->
 
 ## Educación
 
