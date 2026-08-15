@@ -1,68 +1,163 @@
-# Sebastian Aguilar
+# Joan Sebastian Aguilar
 
-**Web Full Stack Developer and Videogame Developer | Mid-Level | NestJS • React • Node.js •  TypeScript  • Angular | Fintech Experience | Unity Engine**
-📍 Bogotá, Colombia  
+**Full Stack Developer | TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · MongoDB**
 
-Full Stack Developer con más de 4 años de experiencia desarrollando aplicaciones web escalables utilizando JavaScript y TypeScript. Experiencia sólida en React, Angular, Node.js, NestJS, PostgreSQL y MongoDB, participando en proyectos de alto impacto para el sector bancario y asegurador.
-He contribuido al desarrollo y evolución de la aplicación principal de uno de los bancos más importantes de mi país, trabajando en arquitecturas escalables optimización de rendimiento y construcción de soluciones seguras en producción.
-Enfoque en clean architecture, buenas prácticas, código mantenible y trabajo colaborativo en equipos ágiles.
+📍 Bogotá, Colombia
 
-<!-- 📄 [Descargar mi CV (Currículum Vitae- Frontend developer)](https://github.com/user-attachments/files/23377052/Daiana-L-CV.pdf.pdf) -->
+Full Stack Developer con más de 4 años de experiencia desarrollando aplicaciones web para el sector financiero, con experiencia en proyectos de banca y seguros en entornos productivos.
 
+Especializado en TypeScript, React, Next.js, Node.js y NestJS, con experiencia adicional en Angular, PostgreSQL y MongoDB. He trabajado en el desarrollo y mantenimiento de soluciones para **Davivienda** y **Seguros Cardif BNP Paribas**, participando en funcionalidades frontend, backend, APIs REST y manejo de datos.
 
----
-
-## Stack Tecnológico
-
-- **Frontend:** React, Next.js
-- **Backend:** Node.js, PostgreSQL, Nest.js, Render, Docker  
-- **Estado & Autenticación:** JWT, Auth0  
-- **Herramientas:** Git, GitHub, Vercel, Render
-- **Lenguajes:** JavaScript, TypeScrip, C#
+Enfocado en arquitectura limpia, calidad de código, rendimiento, mantenibilidad y desarrollo de soluciones robustas en equipos ágiles.
 
 ---
 
-## Proyectos Destacados
+## 🚀 Stack Tecnológico
 
-### GoSafe *(Proyecto grupal – Henry, 2026)*
-Go Safe busca conectar a instructores y guías de deportes y experiencias de aventura con personas interesadas en este tipo de actividades, pero que no hayan encontrado un medio que facilite su acceso. 
-- Rol: **Full Stack Developer, Technical leader**  
-- Funcionalidades: creación de api, formularios de autenticación/registro, integración de notificaciones por email, dashboard de reservas, perfiles y chat en tiempo real.  
-🔗 [Repositorio](https://github.com/gosafe-pf/gosafe) | [Demo](https://gosafe-seven.vercel.app/)  
+### Lenguajes
+- TypeScript
+- JavaScript
+- C#
+- HTML5
+- CSS3
+
+### Frontend
+- React
+- Next.js
+- Angular
+- Consumo de APIs REST
+- Diseño responsive
+
+### Backend
+- Node.js
+- NestJS
+- Express.js
+- Desarrollo de APIs REST
+- Autenticación con JWT
+
+### Bases de Datos
+- PostgreSQL
+- MongoDB
+
+### ORM / ODM
+- TypeORM
+- Mongoose
+
+### Testing
+- Jest
+- Pruebas unitarias
+- Pruebas end-to-end (E2E)
+
+### Arquitectura
+- Clean Architecture
+- Diseño de APIs
+- Aplicaciones monolíticas y modulares
+
+### Cloud & DevOps
+- Docker
+- Jenkins
+- Google Cloud Platform (GCP)
+
+### Herramientas
+- Git
+- GitHub
+- GitLab
+
+### Metodologías
+- Agile
+- Scrum
 
 ---
 
-<!-- ### Hysteria3D Shop *(Proyecto Full Stack)*
-E-commerce para productos 3D con React, Next.js y TypeScript.  
-- Backend en Node.js con PostgreSQL  
-- Autenticación con JWT y gestión de productos  
-- UI con Tailwind CSS y Flowbite  
-🔗 [Repositorio](https://github.com/Daiana-L/Hyteria-3D-Shop-Next.js) | [Demo](https://www.youtube.com/watch?v=6ZB_oYsGi3s)  
+## 💼 Experiencia Profesional
+
+### Sofka Technologies
+**Full Stack Developer**  
+Abril 2024 – Abril 2025
+
+Desarrollo y mantenimiento de aplicaciones web para proyectos del sector asegurador y bancario.
+
+- Desarrollo de aplicaciones para **Seguros Cardif BNP Paribas** utilizando Next.js, NestJS, TypeScript y PostgreSQL.
+- Desarrollo de funcionalidades de extremo a extremo, incluyendo consultas y manipulación de datos, lógica backend, integración de APIs y desarrollo de interfaces frontend.
+- Implementación de pruebas unitarias con Jest.
+- Desarrollo y mantenimiento de aplicaciones web para **Davivienda**, trabajando de forma Full Stack en frontend, backend y manejo de datos.
+- Mantenimiento del videojuego **Casita de Artistas** de Davivienda desarrollado en Unity, corrigiendo problemas funcionales y realizando ajustes para recuperar su correcto funcionamiento.
+
+### Tata Consultancy Services (TCS)
+**Frontend Developer**  
+Noviembre 2021 – Abril 2024
+
+Desarrollo y mantenimiento de módulos de la aplicación bancaria de **Davivienda** utilizando Angular y TypeScript.
+
+- Desarrollo de funcionalidades para flujos como solicitud de tarjetas de crédito empresariales, creación de cuentas y agendamiento de citas.
+- Implementación principalmente de lógica y funcionalidades frontend, integrando servicios backend y adaptando las soluciones a los requerimientos del negocio.
+- Trabajo colaborativo con equipos de frontend, backend y stakeholders del cliente bajo metodología Scrum.
+- Participación en procesos de DevOps y despliegue mediante Jenkins, así como trabajo con Google Cloud Platform (GCP) y Google Tag Manager.
 
 ---
 
-### Aurora Studio – Solicita tu cita *(Proyecto Full Stack)*
-App web para gestión de turnos y registro de usuarios.  
-- Frontend: React + Vite  
-- Backend: Node.js + PostgreSQL  
-- Autenticación y manejo de citas  
-🔗 [Repositorio](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita) | [Demo](https://www.youtube.com/watch?v=XJMVlnWBzQQ)  
+## 🚀 Proyectos Destacados
 
---- -->
+### GoSafe
 
-## Educación
+**Proyecto grupal – HENRY · 2026**
 
-- **Servicio Nacional de Apredizaje de Colombia – Tecnologo en desarrollo de Videojuegos (2022)**  
-- **Soy Henry – Bootcamp Full Stack Web Developer (2026)**  
-1000+ horas de programación intensiva en JavaScript, TypeScript React, Node.js, PostgreSQL y metodologías ágiles (SCRUM).  
+Plataforma orientada a conectar instructores y guías de deportes y experiencias de aventura con personas interesadas en este tipo de actividades.
+
+**Rol:** Full Stack Developer & Technical Lead
+
+**Participación:**
+- Desarrollo de APIs y funcionalidades Full Stack.
+- Implementación de autenticación y registro de usuarios.
+- Integración de notificaciones por correo electrónico.
+- Desarrollo de dashboard para gestión de reservas.
+- Desarrollo de perfiles de usuario.
+- Implementación de chat en tiempo real.
+
+🔗 [Repositorio](https://github.com/gosafe-pf/gosafe)  
+🔗 [Demo](https://gosafe-seven.vercel.app/)
 
 ---
 
-## Contacto
+## 🎓 Educación
 
-- 📧 Email: **joansaguilarj@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/joansaguilarj1/)  
+### Tecnología en Desarrollo de Videojuegos
+**SENA**  
+Enero 2018 – Mayo 2021
+
+### Bootcamp Full Stack Web Development
+**HENRY**  
+Noviembre 2025 – Abril 2026
+
+Formación intensiva en desarrollo de aplicaciones web Full Stack, bases de datos, APIs REST, interfaces modernas y metodologías ágiles.
 
 ---
 
-Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades como Full Stack Developer!
+## 🏆 Reconocimientos
+
+- **Excelencia académica y actitudinal – SENA** (2019, 2020)
+- **Tercer lugar – SENASOFT 2019**, competencia nacional de desarrollo de software.
+
+---
+
+## 🎮 Experiencia Adicional en Videojuegos
+
+Antes de enfocarme profesionalmente en el desarrollo web Full Stack, trabajé en desarrollo de videojuegos y arte técnico utilizando Unity.
+
+- **Butter Games** — Technical Artist & Game Development Mentor
+- **Life Is The Game** — Game Developer (Unity)
+- **Dreams Uncorporated** — Junior Technical Artist
+- **Umbra Interactive** — Software Developer
+
+Esta experiencia me permitió desarrollar conocimientos en programación, desarrollo interactivo, resolución de problemas y trabajo en equipos multidisciplinarios.
+
+---
+
+## 📫 Contacto
+
+📧 **Email:** joansaguilarj@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/joansaguilarj1](https://www.linkedin.com/in/joansaguilarj1)
+
+---
+
+Estoy abierto a nuevas oportunidades como **Full Stack Developer**.
